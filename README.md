@@ -1,2 +1,4 @@
 # CMIT_Internship
-CMIT Internship's Homeworks and Project (Summer 2022)
+This file includes all Homeworks and, at the end, the final project of the Research Internship and trainings of the Centre of Mathematical Imaging Techniques at the University of Liverpool.
+
+All rights are reserved 
